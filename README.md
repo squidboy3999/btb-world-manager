@@ -11,4 +11,5 @@ When territory maps enter certain states they will send requests to create or up
 the actual maps used to make 3d game maps for the player to explore.
 
 ## Future Work
-- Individual territories
+- Individual territory resources and climate/weather influence
+- Handling of infrastructure upgrades and possible proximity effect.
