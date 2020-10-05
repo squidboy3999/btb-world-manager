@@ -57,3 +57,5 @@ class WorldManager:
         with open(file_name) as json_file:
             data = json.load(json_file)
         return data
+
+
